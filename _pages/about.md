@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Huan Zhang's website!"
+title: "Welcome to Huan Zhang's website! 欢迎来到我的个人网站!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,9 +12,11 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow o
 
 我是张欢，1994年4月生，目前担任郑州大学直聘副研究员，也是中国计算机学会和中国人工智能学会的会员。我于2016年6月获得华中师范大学计算机科学与技术学士学位，2023年6月获得中国地质大学（武汉）地学信息工程博士学位，此外，我曾于2022年6月至2023年6月在澳大利亚蒙纳士大学公派联合培养。在获得学士学位后，曾于2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。
 
-Research interests
+Research interests 研究兴趣
 ======
 My research area is machine learning and data mining, and my research interests mainly include Bayesian classification, crowdsourcing, defect detection and so on.
+
+我的研究领域是机器学习和数据挖掘，研究兴趣主要包括贝叶斯分类、众包学习、缺陷检测等。
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 

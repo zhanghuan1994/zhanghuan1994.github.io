@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Welcome to Huan Zhang's website! 欢迎来到我的个人网站!"
+title: "Welcome to Huan Zhang's website!  
+欢迎来到我的个人网站!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

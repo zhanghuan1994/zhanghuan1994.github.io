@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**2023**:
+<h2>2023</h2>
 
 **[Rigorous non-disjoint discretization for naive Bayes](https://www.sciencedirect.com/science/article/pii/S0031320323002546?via%3Dihub)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Geoffrey I. Webb**  
@@ -19,7 +19,7 @@ Publication: IEEE Transactions on Knowledge and Data Engineering, Vol 35(7), Jul
 作者：张文钧, 蒋良孝*, **张欢**, 胡成玉.  
 期刊：中国科学: 信息科学, 2023, 53(6): 1078-1095.（CCF-T1中文期刊）
 
-**2022**:
+<h2>2022</h2>
 
 **[Attribute Augmented and Weighted Naive Bayes](http://engine.scichina.com/doi/10.1007/s11432-020-3277-0)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
@@ -33,7 +33,7 @@ Publication: SCIENCE CHINA Information Sciences, Vol 65(12), December 2022, 2221
 Authors: **Huan Zhang**, Liangxiao Jiang*  
 Publication: Neurocomputing, Vol 488, June 2022, Pages 402-411. (SCI, 中科院2区, CCF-C, IF=5.719)
 
-**2021**:
+<h2>2021</h2>
 
 **[Collaboratively Weighted Naive Bayes](https://link.springer.com/article/10.1007/s10115-021-01622-z)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
@@ -51,7 +51,8 @@ Publication: Expert Systems With Applications, Vol 185, December 2021, 115673. (
 Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
 Publication: Pattern Recognition, Vol 111, March 2021, 107674. (SCI, 中科院1区, CCF-B, IF=7.196)
 
-**2020**:
+<h2>2020</h2>
+
 **[Class-specific Attribute Value Weighting for Naive Bayes](https://www.sciencedirect.com/science/article/pii/S0020025519308217?via%3Dihub)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
 Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, 中科院1区, CCF-B, IF=5.542)

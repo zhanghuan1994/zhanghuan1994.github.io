@@ -40,13 +40,3 @@ Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, ä
 **[Gain ratio weighted inverted specific-class distance measure for nominal attributes](https://link.springer.com/article/10.1007%2Fs13042-020-01112-8)**  
 Authors: Fang Gong, Liangxiao Jiang*, **Huan Zhang**, Dianhong Wang, Xingfeng Guo:  
 Publication: International Journal of Machine Learning and Cybernetics, Vol 11, March 2020, Pages 2237â€“2246.
-
-# {% if author.googlescholar %}
-#   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-# {% endif %}
-
-# {% include base_path %}
-
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}

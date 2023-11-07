@@ -15,22 +15,22 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 Recent News 最新动态
 ======
 
-[a](../image/v.png) 2023.06- My Ph.D. defense has been completed and I have got my Ph.D degree! Congratulations!  
+✌️2023.06- My Ph.D. defense has been completed and I have got my Ph.D degree! Congratulations!  
 **毕业答辩已经完成，顺利拿到博士学位证书！祝贺！**
 
-:fire: 2023.03- Our paper "Rigorous non-disjoint discretization for naive Bayes" is accepted in CCF-B journal Pattern Recognition (IF:8.518)! It's my first work in Monash University as a visitor Ph.D. student. Congratulations!  
+✌️2023.03- Our paper "Rigorous non-disjoint discretization for naive Bayes" is accepted in CCF-B journal Pattern Recognition (IF:8.518)! It's my first work in Monash University as a visitor Ph.D. student. Congratulations!  
 **我们的工作“Rigorous non-disjoint discretization for naive Bayes”被CCF-B类期刊Pattern Recognition录用(IF:8.518)！这是我以访问学生的身份在蒙纳士大学的第一个工作。祝贺！**
 
-:v: 2022.10- Congratulations! I got "the National Scholarship for Ph.D. in 2022"! Fighting!  
+✌️2022.10- Congratulations! I got "the National Scholarship for Ph.D. in 2022"! Fighting!  
 **祝贺！我很荣幸获得“2022年博士研究生国家奖学金”！继续加油吧！**
 
-:v: 2022.06- Our works "Big data-driven modeling for power load forecasting" is awarded with the first prize of Hubei province and the second prize of nation in the 10th Taidi Cup Data Mining Challenge Competition". Congratulations!  
+✌️2022.06- Our works "Big data-driven modeling for power load forecasting" is awarded with the first prize of Hubei province and the second prize of nation in the 10th Taidi Cup Data Mining Challenge Competition". Congratulations!  
 **我们的工作“大数据驱动的电力系统负荷预测模型” 获得了“泰迪杯”第十届数据挖掘挑战赛湖北省一等奖，国家级二等奖！恭喜！**
 
-:v: 2022.06- I have been arrived in Melbourne and started my study at Monash University as a visiting Ph.D. student, fighting!  
+✌️2022.06- I have been arrived in Melbourne and started my study at Monash University as a visiting Ph.D. student, fighting!  
 **我已经到达墨尔本，以访问学生的身份开始了在蒙纳士大学的学习生活，加油！**
 
-:v: 2022.05- Congratulations! We got a paper accepted in the top data mining journal IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) entitled "Multi-view Attribute Weighted Naive Bayes"! It's my first CCF-A journal paper! Thanks to all my friends!  
+✌️2022.05- Congratulations! We got a paper accepted in the top data mining journal IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) entitled "Multi-view Attribute Weighted Naive Bayes"! It's my first CCF-A journal paper! Thanks to all my friends!  
 **祝贺！我们的工作“Multi-view Attribute Weighted Naive Bayes” 被数据挖掘顶刊 IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) (CCF-A, IF:6.977) 录用！这是本人第一篇CCF-A类期刊论文！谢谢大家！**
 
 :v: 2022.04- Thanks to all my friends, I got the award as "The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan) in 2021". Only four PhD students were elected, a very high honor! Congratulations!  

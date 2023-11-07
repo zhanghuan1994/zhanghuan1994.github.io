@@ -199,6 +199,9 @@ collections:
   students:
     output: true
     permalink: /:collection/:path/
+  links:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -287,6 +290,15 @@ defaults:
   - scope:
       path: ""
       type: students
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _links
+  - scope:
+      path: ""
+      type: links
     values:
       layout: single
       author_profile: true

@@ -15,10 +15,10 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 Recent News 最新动态
 ======
 
-:v: 2023.06- My Ph.D. defense has been completed and I have got my Ph.D degree! Congratulations!  
+:fire: 2023.06- My Ph.D. defense has been completed and I have got my Ph.D degree! Congratulations!  
 **毕业答辩已经完成，顺利拿到博士学位证书！祝贺！**
 
-:v: 2023.03- Our paper "Rigorous non-disjoint discretization for naive Bayes" is accepted in CCF-B journal Pattern Recognition (IF:8.518)! It's my first work in Monash University as a visitor Ph.D. student. Congratulations!  
+:fire: 2023.03- Our paper "Rigorous non-disjoint discretization for naive Bayes" is accepted in CCF-B journal Pattern Recognition (IF:8.518)! It's my first work in Monash University as a visitor Ph.D. student. Congratulations!  
 **我们的工作“Rigorous non-disjoint discretization for naive Bayes”被CCF-B类期刊Pattern Recognition录用(IF:8.518)！这是我以访问学生的身份在蒙纳士大学的第一个工作。祝贺！**
 
 :v: 2022.10- Congratulations! I got "the National Scholarship for Ph.D. in 2022"! Fighting!  

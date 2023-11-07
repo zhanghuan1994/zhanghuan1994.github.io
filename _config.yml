@@ -85,10 +85,10 @@ author:
   bio              : "Member of CCF, CAAI"
   location         : "Zhengzhou"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  dblp             : "https://dblp2.uni-trier.de/pid/23/1797-7.html"
   googlescholar    : "https://scholar.google.com/citations?user=5FTHBE0AAAAJ&hl=zh-CN&oi=ao"
-  email            : "hzhang@zzu.edu.cn, hzhang@cug.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "hzhang@zzu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Huan-Zhang-92"
   uri              :
   bitbucket        :
   codepen          :

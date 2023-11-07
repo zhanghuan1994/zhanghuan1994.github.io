@@ -1,19 +1,28 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Fundings"
+    url: /fundings/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Services"
+    url: /services/
 
   - title: "Students"
     url: /students/
 
-  - title: "Photos"
-    url: /photos/
+  #- title: "Photos"
+  #  url: /photos/
+
+  #- title: "Teaching"
+  #  url: /teaching/    
     
  # - title: "Talks"
  #   url: /talks/   
@@ -24,8 +33,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/

@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://zhanghuan1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zhanghuan1994/zhanghuan1994.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,13 +83,12 @@ author:
   name             : "Huan Zhang"
   avatar           : "huanzhang.jpg"
   bio              : "Zhengzhou University"
-  location         : "Zhengzhou"
+  location         : ""
   employer         :
-  dblp             : "https://dblp2.uni-trier.de/pid/23/1797-7.html"
   googlescholar    : "https://scholar.google.com/citations?user=5FTHBE0AAAAJ&hl=zh-CN&oi=ao"
   email            : "hzhang@zzu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Huan-Zhang-92"
-  uri              :
+  uri              : "https://dblp2.uni-trier.de/pid/23/1797-7.html"
   bitbucket        :
   codepen          :
   dribbble         :

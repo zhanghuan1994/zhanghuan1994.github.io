@@ -9,7 +9,7 @@ author_profile: true
 AAAI 2024  
 PRICAI 2023
 
-**Reviewer for Journals:** 
+**Reviewer for Journals:**  
 IEEE Transactions on Neural Networks and Learning Systems  
 Information Sciences  
 Expert Systems with Applications  

@@ -5,11 +5,11 @@ permalink: /services/
 author_profile: true
 ---
 
-Reviewer for Conferences:  
-AAAI'24  
-PRICAI'23
+**Reviewer for Conferences:**  
+AAAI 2024  
+PRICAI 2023
 
-Reviewer for Journals:  
+**Reviewer for Journals:** 
 IEEE Transactions on Neural Networks and Learning Systems  
 Information Sciences  
 Expert Systems with Applications  
@@ -22,6 +22,6 @@ Intelligent Systems with Applications
 International Journal of Image and Data Fusion  
 Scientific Programming
 
-Member:  
+**Member:**  
 CCF Member  
 CAAI Member

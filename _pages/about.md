@@ -15,8 +15,8 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
-✌️2023.08- Thanks to all, I have joined the Machine Learning Committee of Chinese Association for Artificial Intelligence as the communication committee member! I will try my best to serve the committee in the future!   
-**谢谢大家，我已经加入中国人工智能学会机器学习专委会担任通讯委员，未来我将尽全力为专委会做好服务工作！**
+✌️2023.08- I have joined the Machine Learning Committee of Chinese Association for Artificial Intelligence as the communication committee member! I will try my best to serve the committee in the future!   
+**我已经加入中国人工智能学会机器学习专委会担任通讯委员，未来我将尽全力为专委会做好服务工作！**
 
 ✌️2023.08- I have joined in School of Computer and Artificial Intelligence in Zhengzhou University as an associate research fellow, a new start, fighting!   
 **我已经加入郑州大学计算机与人工智能学院担任直聘副研究员，新的开始，加油！**

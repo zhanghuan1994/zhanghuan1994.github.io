@@ -6,11 +6,20 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Talks"
-    url: /talks/   
-    
+  - title: "Projects"
+    url: /projects/
+
   - title: "Students"
-    url: /portfolio/
+    url: /students/
+
+  - title: "Photos"
+    url: /photos/
+    
+ # - title: "Talks"
+ #   url: /talks/   
+    
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -18,5 +27,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/

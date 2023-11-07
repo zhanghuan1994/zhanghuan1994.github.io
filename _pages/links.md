@@ -5,7 +5,7 @@ permalink: /links/
 author_profile: true
 ---
 
-[Overleaf](https://www.sciencedirect.com/science/article/pii/S0031320323002546?via%3Dihub](https://www.overleaf.com/)https://www.overleaf.com/)
+[Overleaf](https://www.overleaf.com/)
 
 [UCI Machine Learning Repository](http://archive.ics.uci.edu/)
 

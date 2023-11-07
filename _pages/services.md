@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Services"
+title: "Services 学术服务"
 permalink: /services/
 author_profile: true
 ---
 
-**Reviewer for Conferences:**  
+**Program Committee for Conferences: 会议程序委员会委员**  
 AAAI 2024  
 PRICAI 2023
 
-**Reviewer for Journals:**  
+**Reviewer for Journals: 期刊审稿人**  
 IEEE Transactions on Neural Networks and Learning Systems  
 Information Sciences  
 Expert Systems with Applications  
@@ -22,6 +22,6 @@ Intelligent Systems with Applications
 International Journal of Image and Data Fusion  
 Scientific Programming
 
-**Member:**  
+**Member: 组织成员**  
 CCF Member  
 CAAI Member

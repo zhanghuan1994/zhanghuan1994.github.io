@@ -187,6 +187,18 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  fundings:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  services:
+    output: true
+    permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +256,42 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _fundings
+  - scope:
+      path: ""
+      type: fundings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _services
+  - scope:
+      path: ""
+      type: services
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:

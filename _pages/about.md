@@ -45,8 +45,8 @@ News 最新动态
 ✌️2022.06- I have been arrived in Melbourne and started my study at Monash University as a visiting Ph.D. student, fighting!  
 **我已经到达墨尔本，以访问学生的身份开始了在蒙纳士大学的学习生活，加油！**
 
-✌️2022.05- Congratulations! We got a paper accepted in the top data mining journal IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) entitled "Multi-view Attribute Weighted Naive Bayes"! It's my first CCF-A journal paper! Thanks to all my friends!  
-**祝贺！我们的工作“Multi-view Attribute Weighted Naive Bayes” 被数据挖掘顶刊 IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) (CCF-A, IF:6.977) 录用！这是本人第一篇CCF-A类期刊论文！谢谢大家！**
+✌️2022.05- Congratulations! We got a paper accepted in the top data mining journal IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) entitled "Multi-view Attribute Weighted Naive Bayes"! Thanks to all my friends!  
+**祝贺！我们的工作“Multi-view Attribute Weighted Naive Bayes” 被数据挖掘顶刊 IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) (CCF-A, IF:6.977) 录用！谢谢大家！**
 
 ✌️2022.04- Thanks to all my friends, I got the award as "The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan) in 2021". Only four PhD students were elected, a very high honor! Congratulations!  
 **谢谢大家，我很荣幸被评为“2021学年中国地质大学（武汉）校级优秀研究生标兵”！全校仅四名博士生当选，这是一份很高的荣誉，恭喜！**
@@ -54,8 +54,8 @@ News 最新动态
 ✌️2022.03- Our paper ''Fine tuning attribute weighted naive Bayes'' is accepted in Neurocomputing (CCF-C, IF:5.719)! This paper has been updated many versions during more than 2 years. Always believe that efforts will be fruitful!  
 **我们的工作“Fine tuning attribute weighted naive Bayes” 被录取到了 Neurocomputing (CCF-C, IF:5.719)！该论文的工作历经两年多，在这期间迭代了很多次，相信努力就有收获！**
 
-✌️2021.10- Our paper ''Collaboratively Weighted Naive Bayes'' is accepted in Knowledge and Information Systems (CCF-B, IF:2.822)! It's the first work for me in Springer press, a good start, congratulations!  
-**我们的工作“Collaboratively Weighted Naive Bayes” 被录取到了 Knowledge and Information Systems (CCF-B, IF:2.822)！这是本人第一篇发表在Springer出版社的论文，是一个好的开始，祝贺！**
+✌️2021.10- Our paper ''Collaboratively Weighted Naive Bayes'' is accepted in Knowledge and Information Systems (CCF-B, IF:2.822), congratulations!  
+**我们的工作“Collaboratively Weighted Naive Bayes” 被录取到了 Knowledge and Information Systems (CCF-B, IF:2.822)！祝贺！**
 
 ✌️2021.07- Our paper ''CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection'' is accepted in Expert Systems With Applications (CCF-C, IF:6.954)! The first work for me about practical applications in deep learning, congratulations!  
 **我们的工作“CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection” 被录取到了 Expert Systems With Applications (CCF-C, IF:6.954)！这是本人第一篇关于深度学习实际应用的论文，恭喜！**
@@ -63,8 +63,8 @@ News 最新动态
 ✌️2021.07- Congratulations! I have been awarded the Chinese Government Scholarship for Joint Training Ph.D. to sponsor my upcoming study abroad. Expect the life in Monash University!  
 **祝贺！我已经获得了公派留学联合培养博士生的资格，并且拿到了中国政府奖学金的资助。期待在蒙纳士大学的生活！**
 
-✌️2021.06- Congratulations! The project "Fine-Grained Attribute Weighting Methods for Naive Bayes" we applied has been successfully established in "The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosciences (Wuhan)". The total amount can achieve 60,000 RMB. Stress and motivation coexist, keep going!  
-**祝贺！我们申请的项目“朴素贝叶斯细粒度属性加权方法研究”已经通过“中国地质大学（武汉）优秀博士创新基金”项目评审成功立项。资助总额可达到6万元。压力与动力并存，继续加油！**
+✌️2021.06- Congratulations! The project "Fine-Grained Attribute Weighting Methods for Naive Bayes" we applied has been successfully established in "The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosciences (Wuhan)". The total amount is 60,000 RMB. Stress and motivation coexist, keep going!  
+**祝贺！我们申请的项目“朴素贝叶斯细粒度属性加权方法研究”已经通过“中国地质大学（武汉）优秀博士创新基金”项目评审成功立项。资助总额为6万元。压力与动力并存，继续加油！**
 
 ✌️2021.06- Thanks to all my friends, I got the award as "The Excellent Communist Party Members of China University of Geosciences (Wuhan) in 2020-2021". The only one in the school of computer science, and this year is just the 100th anniversary of the founding of the communist party of China, congratulations!  
 **谢谢大家，我很荣幸被评为“2020-2021学年中国地质大学（武汉）校级优秀共产党员”！计算机学院唯一一个名额，恰逢建党100周年，恭喜！**

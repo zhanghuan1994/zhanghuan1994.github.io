@@ -18,14 +18,16 @@ main:
   - title: "Students"
     url: /students/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Links"
     url: /links/
 
   #- title: "Photos"
   #  url: /photos/
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+    
     
  # - title: "Talks"
  #   url: /talks/   

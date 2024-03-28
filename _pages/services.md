@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Program Committee for Conferences: 会议程序委员会委员**  
+UAI 2024
 AAAI 2024  
 PRICAI 2023
 

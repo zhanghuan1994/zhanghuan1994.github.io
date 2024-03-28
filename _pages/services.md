@@ -25,5 +25,5 @@ Scientific Programming
 
 **Member: 组织成员**  
 CCF Member  
-CAAI Member
+CAAI Member  
 CIE Member

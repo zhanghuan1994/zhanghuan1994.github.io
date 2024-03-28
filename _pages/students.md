@@ -4,5 +4,6 @@ title: "Students 学生指导"
 permalink: /students/
 author_profile: true
 ---
-
-持续更新中。。。
+  
+孟可心，2024级，研0
+曾永平，2024级，研0

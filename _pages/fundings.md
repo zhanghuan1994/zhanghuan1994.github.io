@@ -4,6 +4,8 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
+Henan Province science and technology research project, Key technologies and applications of Bayesian networks classifier for terrorist attack risk assessment, 2024.1-2025.12, Ongoing, Manager  
+河南省科技攻关项目（242102320055），基于贝叶斯网络的恐怖袭击风险评估关键技术及应用，2024.1-2025.12，在研，主持
 
 The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosciences (Wuhan), Fine-Grained Attribute Weighting Methods for Naive Bayes, 2021.6-2023.6, Completed, Manager  
 中国地质大学（武汉）优秀博士创新基金（CUGGC03），朴素贝叶斯细粒度属性加权方法研究，2021.6-2023.6，已结题，主持

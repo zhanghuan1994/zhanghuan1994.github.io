@@ -12,6 +12,7 @@ PRICAI 2023
 
 **Reviewer for Journals: 期刊审稿人**  
 IEEE Transactions on Neural Networks and Learning Systems  
+Pattern Recognition  
 Information Sciences  
 Expert Systems with Applications  
 Knowledge-Based Systems  

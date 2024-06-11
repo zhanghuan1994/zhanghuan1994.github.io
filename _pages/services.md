@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Program Committee for Conferences: 会议程序委员会委员**  
+AAAI 2025  
 PRICAI 2024  
 UAI 2024  
 AAAI 2024  
@@ -15,11 +16,13 @@ PRICAI 2023
 IEEE Transactions on Neural Networks and Learning Systems  
 IEEE Transactions on Cybernetics  
 Pattern Recognition  
+Neural Networks  
 Information Sciences  
 Expert Systems with Applications  
 Knowledge-Based Systems  
 Engineering Applications of Artificial Intelligence  
 Artificial Intelligence Review  
+Neurocomputing  
 International Journal of Machine Learning and Cybernetics  
 Neural Computing and Applications  
 Intelligent Systems with Applications  

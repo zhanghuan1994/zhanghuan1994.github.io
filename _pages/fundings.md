@@ -4,6 +4,9 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
+The Postdoctoral Fellowship Program of CPSF (GZC20241546), 2024.7-2026.6, Ongoing, Manager  
+国家资助博士后研究人员计划（GZC20241546），2024.7-2026.6，在研，主持
+
 Henan Province science and technology research project, Key technologies and applications of Bayesian networks classifier for terrorist attack risk assessment, 2024.1-2025.12, Ongoing, Manager  
 河南省科技攻关项目（242102320055），基于贝叶斯网络的恐怖袭击风险评估关键技术及应用，2024.1-2025.12，在研，主持
 

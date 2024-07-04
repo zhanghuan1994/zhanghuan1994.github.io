@@ -15,7 +15,7 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
-✌️2024.07- My application about the Postdoctoral Fellowship Program of CPSF has successfully been supported, congratulations!  
+✌️2024.07- My application about 2024 the Postdoctoral Fellowship Program of CPSF has successfully been supported, congratulations!  
 **我申报的2024年国家资助博士后研究人员计划顺利获得资助，恭喜！**
 
 ✌️2024.01- Our application about 2024 Henan Province Science and Technology Research project has successfully been approved, congratulations!  

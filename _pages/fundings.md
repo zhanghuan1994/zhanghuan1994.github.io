@@ -4,6 +4,9 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
+The Postdoctoral Fellowship Program of China Postdoctoral Science Foundation, 2024.2-2026.2, Ongoing, Manager  
+国家资助博士后研究人员计划，2024.2-2026.2，在研，主持
+
 Henan Province science and technology research project, 2024.1-2025.12, Ongoing, Manager  
 河南省科技攻关项目，2024.1-2025.12，在研，主持
 

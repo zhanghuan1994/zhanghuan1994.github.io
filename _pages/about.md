@@ -15,6 +15,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
+✌️2024.07- My application about 2024 the Postdoctoral Fellowship Program of China Postdoctoral Science Foundation has been approved, congratulations!  
+**我申报的2024年国家资助博士后研究人员计划顺利获得资助，恭喜！**
+
 ✌️2023.11- I have joined the Causality and Uncertainty in Artificial Intelligence Committee of Chinese Association for Artificial Intelligence as the committee member! I will try my best to serve the committee in the future!   
 **我已经加入中国人工智能学会因果与不确定性人工智能专委会担任委员，未来我将尽全力为专委会做好服务工作！**
 

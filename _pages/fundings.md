@@ -4,6 +4,9 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
+Youth Fund of the National Natural Science Foundation of China, 2025.1-2027.12, Ongoing, Manager  
+国家自然科学基金青年基金，2025.1-2027.12，在研，主持
+
 The Postdoctoral Fellowship Program of China Postdoctoral Science Foundation, 2024.2-2026.2, Ongoing, Manager  
 国家资助博士后研究人员计划，2024.2-2026.2，在研，主持
 

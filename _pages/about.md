@@ -14,6 +14,8 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 
 News 最新动态
 ======
+✌️2024.08- My application about 2024 Youth Fund of the National Natural Science Foundation of China has been approved, congratulations!  
+**我申报的2024年国家自然科学基金青年基金顺利获得资助，恭喜！**
 
 ✌️2024.07- My application about 2024 the Postdoctoral Fellowship Program of China Postdoctoral Science Foundation has been approved, congratulations!  
 **我申报的2024年国家资助博士后研究人员计划顺利获得资助，恭喜！**

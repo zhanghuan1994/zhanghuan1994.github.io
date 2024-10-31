@@ -17,4 +17,4 @@ author_profile: true
 
 [KEEL: Knowledge Extraction based on Evolutionary Learning](https://sci2s.ugr.es/keel/)
 
-[AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM,HCI,KR,CV,CG)
+[CCF Conference Deadlines](https://ccfddl.com/)

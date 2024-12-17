@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Program Committee for Conferences: 会议程序委员会委员**  
+UAI 2025  
 AAAI 2025  
 PRICAI 2024  
 UAI 2024  
@@ -29,7 +30,9 @@ International Journal of Machine Learning and Cybernetics
 Neural Computing and Applications  
 Intelligent Systems with Applications  
 International Journal of Image and Data Fusion  
-Scientific Programming
+Applied Sciences
+Sensors  
+Scientific Programming  
 
 **Member: 组织成员**  
 CCF Member  

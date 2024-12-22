@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2>2024</h2>
+
+**[Dual-View Learning from Crowds]()**  
+Authors: **Huan Zhang**, Liangxiao Jiang*, Wenjun Zhang, Geoffrey I. Webb  
+Publication: ACM Transactions on Knowledge Discovery from Data, Accepted. (SCI, CCF-B)
+
 <h2>2023</h2>
 
 **[Rigorous non-disjoint discretization for naive Bayes](https://www.sciencedirect.com/science/article/pii/S0031320323002546?via%3Dihub)**  

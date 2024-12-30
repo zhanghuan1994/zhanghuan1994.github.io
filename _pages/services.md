@@ -32,7 +32,7 @@ International Journal of Machine Learning and Cybernetics
 Neural Computing and Applications  
 Intelligent Systems with Applications  
 International Journal of Image and Data Fusion  
-Applied Sciences
+Applied Sciences  
 Sensors  
 Scientific Programming  
 

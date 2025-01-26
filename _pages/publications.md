@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>2024</h2>
 
-**[Dual-View Learning from Crowds]()**  
+**[Dual-View Learning from Crowds](https://dl.acm.org/doi/abs/10.1145/3712605)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Wenjun Zhang, Geoffrey I. Webb  
 Publication: ACM Transactions on Knowledge Discovery from Data, Accepted. (SCI, CCF-B)
 

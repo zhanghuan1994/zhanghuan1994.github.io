@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2>2025</h2>
+
+**[EMAWNB: Enhanced multi-view attribute weighted naive Bayes]()**  
+Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***   
+Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), Accepted. (CCF-C)
+
 <h2>2024</h2>
 
 **[Dual-View Learning from Crowds](https://dl.acm.org/doi/abs/10.1145/3712605)**  

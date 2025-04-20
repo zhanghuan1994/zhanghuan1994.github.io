@@ -39,6 +39,9 @@ Applied Sciences
 Sensors  
 Scientific Programming  
 
+**Editorial Board Member for Journals: 期刊编委**
+《智能系统学报》青年编委
+
 **Member: 组织成员**  
 CCF Member  
 CAAI Member  

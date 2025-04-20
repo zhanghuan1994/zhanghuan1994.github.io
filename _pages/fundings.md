@@ -4,8 +4,8 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
-oint Open Fund of the Research Platforms of School of Computer Science, China University of Geosciences, Wuhan, 2025.1-2026.12, Ongoing, Manager  
-中国地质大学（武汉）计算机学院2024年度科研平台联合开放基金，2025.1-2026.12，在研，主持
+Joint Open Fund of the Research Platforms of School of Computer Science, China University of Geosciences, Wuhan, 2025.1-2026.12, Ongoing, Manager  
+中国地质大学（武汉）计算机学院科研平台联合开放基金，2025.1-2026.12，在研，主持
 
 Youth Fund of the National Natural Science Foundation of China, 2025.1-2027.12, Ongoing, Manager  
 国家自然科学基金青年基金，2025.1-2027.12，在研，主持

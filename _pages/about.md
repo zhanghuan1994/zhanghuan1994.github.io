@@ -15,6 +15,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
+✌️2025.3- It is my great honor to join the second young editorial board member of CAAI Transactions on Intelligent Systems! Thank you all, I will try my best to serve the journal in the future!  
+**很荣幸受邀加入《智能系统学报》第二届青年编委队伍，感谢认可，尽全力为期刊做好服务工作！**
+
 ✌️2025.2- Our paper "EMAWNB: Enhanced Multi-view Attribute Weighted Naive Bayes" has been accepted to the Pacific-Asia Knowledge Discovery and Data Mining Conference (PAKDD) 2025 (CCF-C)! The first author is a third-year undergraduate student I mentored, and it only took him half a year to go from learning data mining to publishing the paper. Congratulations! See you in Sydney!  
 **我们的工作“EMAWNB: Enhanced multi-view attribute weighted naive Bayes” 被录取到了亚太地区知识发现与数据挖掘会议 PAKDD 2025 (CCF-C)！第一作者是我指导的三年级本科生，从入门数据挖掘方向到论文发表仅用了半年时间，祝贺！悉尼见！**
 

@@ -7,14 +7,14 @@ author_profile: true
 
 **Program Committee for Conferences: 会议程序委员会委员**  
 IJCAI 2025  
-UAI 2025  
-CCML 2025  
-ICIC 2025  
-IJCNN 2025  
 AAAI 2025  
-PRICAI 2024  
-UAI 2024  
+UAI 2025  
+ICIC 2025  
+IJCNN 2025    
+CCML 2025  
 AAAI 2024  
+UAI 2024  
+PRICAI 2024  
 PRICAI 2023
 
 **Reviewer for Journals: 期刊审稿人**  
@@ -39,7 +39,7 @@ Applied Sciences
 Sensors  
 Scientific Programming  
 
-**Editorial Board Member for Journals: 期刊编委**
+**Editorial Board Member for Journals: 期刊编委**  
 《智能系统学报》青年编委
 
 **Member: 组织成员**  

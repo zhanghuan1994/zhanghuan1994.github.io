@@ -11,6 +11,7 @@ AAAI 2025
 UAI 2025  
 ICIC 2025  
 IJCNN 2025    
+PRICAI 2025    
 CCML 2025  
 AAAI 2024  
 UAI 2024  
@@ -36,6 +37,7 @@ Intelligent Systems with Applications
 International Journal of Image and Data Fusion  
 Mathematics  
 Applied Sciences  
+Entropy  
 Sensors  
 Scientific Programming  
 

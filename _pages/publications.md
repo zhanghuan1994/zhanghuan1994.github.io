@@ -9,7 +9,7 @@ author_profile: true
 
 **[KA2Net: Kolmogorov-Arnold Attention Network for PCB Tiny Defect Detection]()**  
 Authors: Qi Wang, Zhihong Xie, Yongping Zeng, **Huan Zhang***   
-Publication: The 2025 21st International Conference on Intelligent Computing (ICIC 2025), Accepted. (CCF-C)
+Publication: The 21st International Conference on Intelligent Computing (ICIC 2025), Accepted. (CCF-C)
 
 **[EMAWNB: Enhanced multi-view attribute weighted naive Bayes](https://pakdd2025.org/accepted-papers/)**  
 Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***   

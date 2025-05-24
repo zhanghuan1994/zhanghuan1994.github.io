@@ -7,7 +7,11 @@ author_profile: true
 
 <h2>2025</h2>
 
-**[EMAWNB: Enhanced multi-view attribute weighted naive Bayes]()**  
+**[KA2Net: Kolmogorov-Arnold Attention Network for PCB Tiny Defect Detection]()**  
+Authors: Qi Wang, Zhihong Xie, Yongping Zeng, **Huan Zhang***   
+Publication: The 2025 21st International Conference on Intelligent Computing (ICIC 2025), Accepted. (CCF-C)
+
+**[EMAWNB: Enhanced multi-view attribute weighted naive Bayes](https://pakdd2025.org/accepted-papers/)**  
 Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***   
 Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), Accepted. (CCF-C)
 
@@ -41,7 +45,7 @@ Publication: SCIENCE CHINA Information Sciences, Vol 65(12), December 2022, 2221
 
 **[Fine tuning attribute weighted naive Bayes](https://www.sciencedirect.com/science/article/pii/S0925231222002909)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*  
-Publication: Neurocomputing, Vol 488, June 2022, Pages 402-411. (SCI, 中科院2区, CCF-C, IF=5.719)
+Publication: Neurocomputing, Vol 488, June 2022, Pages 402-411. (SCI, 中科院2区, IF=5.719)
 
 <h2>2021</h2>
 
@@ -51,7 +55,7 @@ Publication: Knowledge and Information Systems, Vol 63(12), December 2021, Pages
 
 **[CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection](https://www.sciencedirect.com/science/article/pii/S0957417421010617)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li**  
-Publication: Expert Systems With Applications, Vol 185, December 2021, 115673. (SCI, 中科院1区, CCF-C, IF=6.954)
+Publication: Expert Systems With Applications, Vol 185, December 2021, 115673. (SCI, 中科院1区Top, IF=6.954)
 
 **[一种双层贝叶斯模型: 随机森林朴素贝叶斯](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200521)**  
 作者：张文钧, 蒋良孝*, **张欢**, 陈龙.  
@@ -69,4 +73,4 @@ Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, �
 
 **[Gain ratio weighted inverted specific-class distance measure for nominal attributes](https://link.springer.com/article/10.1007%2Fs13042-020-01112-8)**  
 Authors: Fang Gong, Liangxiao Jiang*, **Huan Zhang**, Dianhong Wang, Xingfeng Guo  
-Publication: International Journal of Machine Learning and Cybernetics, Vol 11, March 2020, Pages 2237–2246.
+Publication: International Journal of Machine Learning and Cybernetics, Vol 11, March 2020, Pages 2237–2246. (SCI, CCF-C)

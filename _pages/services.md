@@ -9,6 +9,7 @@ author_profile: true
 IJCAI 2025  
 AAAI 2025  
 UAI 2025  
+ECAI 2025  
 ICIC 2025  
 IJCNN 2025    
 PRICAI 2025    

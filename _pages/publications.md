@@ -7,6 +7,10 @@ author_profile: true
 
 <h2>2025</h2>
 
+**[Instance Correlation Graph-based Naive Bayes]()**  
+Authors: Chengyuan Li, Liangxiao Jiang*, Wenjun Zhang, Liangjun Yu, **Huan Zhang**   
+Publication: The 42nd International Conference on Machine Learning (ICML 2025), Accepted. (CCF-A)
+
 **[KA2Net: Kolmogorov-Arnold Attention Network for PCB Tiny Defect Detection]()**  
 Authors: Qi Wang, Zhihong Xie, Yongping Zeng, **Huan Zhang***   
 Publication: The 21st International Conference on Intelligent Computing (ICIC 2025), Accepted. (CCF-C)

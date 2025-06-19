@@ -15,9 +15,9 @@ Publication: The 42nd International Conference on Machine Learning (ICML 2025), 
 Authors: Qi Wang, Zhihong Xie, Yongping Zeng, **Huan Zhang***   
 Publication: The 21st International Conference on Intelligent Computing (ICIC 2025), Accepted. (CCF-C)
 
-**[EMAWNB: Enhanced multi-view attribute weighted naive Bayes](https://pakdd2025.org/accepted-papers/)**  
+**[EMAWNB: Enhanced multi-view attribute weighted naive Bayes](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_6)**  
 Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***   
-Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), Accepted. (CCF-C)
+Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), LNAI 15872, pp. 66–78. (CCF-C)
 
 **[Dual-View Learning from Crowds](https://dl.acm.org/doi/abs/10.1145/3712605)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Wenjun Zhang, Geoffrey I. Webb  

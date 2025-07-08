@@ -15,6 +15,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
+✌️2024.08- My application about 2025 China Postdoctoral Science Foundation has been approved, congratulations!  
+**我申报的2025年第77批中国博士后科学基金面上项目顺利获得资助，恭喜！**
+
 ✌️2025.3- It is my great honor to join the second young editorial board member of CAAI Transactions on Intelligent Systems! Thanks for all the members, I will try my best to serve the journal!  
 **很荣幸加入《智能系统学报》第二届青年编委队伍，感谢编委会认可，我将尽全力为期刊做好服务工作！**
 

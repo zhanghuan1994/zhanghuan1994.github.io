@@ -33,7 +33,7 @@ Publication: Pattern Recognition, Vol 140, August 2023, 109554. (SCI, 中科院1
 Authors: **Huan Zhang**, Liangxiao Jiang*, Wenjun Zhang, Chaoqun Li  
 Publication: IEEE Transactions on Knowledge and Data Engineering, Vol 35(7), July 2023, 7291-7302. (SCI, 中科院1区, CCF-A, IF=6.977)
 
-**[一种基于特征增广的生成-判别混合模型构建方法](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0025)**  
+**[一种基于偏差-方差权衡的贝叶斯分类学习框架](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0025)**  
 作者：张文钧, 蒋良孝*, **张欢**, 胡成玉.  
 期刊：中国科学: 信息科学, 2023, 53(6): 1078-1095.（CCF-T1中文期刊）
 

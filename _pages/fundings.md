@@ -4,6 +4,9 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
+The China Postdoctoral Science Foundation, 2025.7-2026.12, Ongoing, Manager  
+中国博士后科学基金第77批面上资助，2025.7-2026.12，在研，主持
+
 Joint Open Fund of the Research Platforms of School of Computer Science, China University of Geosciences, Wuhan, 2025.1-2026.12, Ongoing, Manager  
 中国地质大学（武汉）计算机学院科研平台联合开放基金，2025.1-2026.12，在研，主持
 

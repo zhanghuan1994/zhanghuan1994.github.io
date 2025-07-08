@@ -15,13 +15,13 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
-✌️2024.08- My application about 2025 China Postdoctoral Science Foundation has been approved, congratulations!  
+✌️2025.07- My application about 2025 China Postdoctoral Science Foundation has been approved, congratulations!  
 **我申报的2025年第77批中国博士后科学基金面上项目顺利获得资助，恭喜！**
 
-✌️2025.3- It is my great honor to join the second young editorial board member of CAAI Transactions on Intelligent Systems! Thanks for all the members, I will try my best to serve the journal!  
+✌️2025.03- It is my great honor to join the second young editorial board member of CAAI Transactions on Intelligent Systems! Thanks for all the members, I will try my best to serve the journal!  
 **很荣幸加入《智能系统学报》第二届青年编委队伍，感谢编委会认可，我将尽全力为期刊做好服务工作！**
 
-✌️2025.2- Our paper "EMAWNB: Enhanced Multi-view Attribute Weighted Naive Bayes" has been accepted to the Pacific-Asia Knowledge Discovery and Data Mining Conference (PAKDD) 2025! The first author is a third-year undergraduate student I mentored, and it only took him half a year to go from learning data mining to publishing the paper. Congratulations! See you in Sydney!  
+✌️2025.02- Our paper "EMAWNB: Enhanced Multi-view Attribute Weighted Naive Bayes" has been accepted to the Pacific-Asia Knowledge Discovery and Data Mining Conference (PAKDD) 2025! The first author is a third-year undergraduate student I mentored, and it only took him half a year to go from learning data mining to publishing the paper. Congratulations! See you in Sydney!  
 **我们的工作“EMAWNB: Enhanced multi-view attribute weighted naive Bayes” 被录取到了亚太地区知识发现与数据挖掘会议 PAKDD 2025！第一作者是我指导的三年级本科生，从入门数据挖掘方向到论文发表仅用了半年时间，祝贺！悉尼见！**
 
 ✌️2024.12- Our paper ''Dual-View Learning from Crowds'' is accepted in ACM Transactions on Knowledge Discovery from Data (CCF-B)! This is my first work in crowdsourcing learning. Thanks for the contributions and efforts of all the co-authors!  

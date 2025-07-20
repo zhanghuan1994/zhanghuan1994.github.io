@@ -15,7 +15,7 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
-✌️2025.7- Our paper ''A General Dual-view Framework for Instance Weighted Naive Bayes'' is accepted in Pattern Recognition (CCF-B，IF:7.6)! This is the first work of my student Kexin Meng, a master student enrolled in 2024. Thanks for her hard work, congratulations!  
+✌️2025.7- Our paper ''A General Dual-view Framework for Instance Weighted Naive Bayes'' is accepted in Pattern Recognition (CCF-B，IF:7.6)! This is the first work of my master student Kexin Meng enrolled in 2024. Thanks for her hard work, congratulations!  
 **我们的工作“A General Dual-view Framework for Instance Weighted Naive Bayes” 被录取到了 Pattern Recognition (CCF-B, IF:7.6)！这是我的学生24级硕士孟可心的第一个工作。感谢她的辛苦付出，祝贺！**
 
 ✌️2025.07- My application about 2025 China Postdoctoral Science Foundation has been approved, congratulations!  

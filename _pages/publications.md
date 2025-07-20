@@ -7,6 +7,10 @@ author_profile: true
 
 <h2>2025</h2>
 
+**[A General Dual-view Framework for Instance Weighted Naive Bayes]()**  
+Authors: **Huan Zhang**, Kexin Meng, Pei Lv, Shuo He, Mingliang Xu*   
+Publication: Pattern Recognition, 2025, Accepted. (SCI, 中科院1区, CCF-B, IF=7.6)
+
 **[Instance Correlation Graph-based Naive Bayes]()**  
 Authors: Chengyuan Li, Liangxiao Jiang*, Wenjun Zhang, Liangjun Yu, **Huan Zhang**   
 Publication: The 42nd International Conference on Machine Learning (ICML 2025), Accepted. (CCF-A)

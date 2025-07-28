@@ -6,18 +6,14 @@ author_profile: true
 ---
 
 **Program Committee for Conferences: 会议程序委员会委员**  
+AAAI 2024/2025/2026  
 IJCAI 2025  
-AAAI 2025  
-UAI 2025  
+UAI 2024/2025  
 ECAI 2025  
+PRICAI 2023/2024/2025  
+IJCNN 2025  
 ICIC 2025  
-IJCNN 2025    
-PRICAI 2025    
 CCML 2025  
-AAAI 2024  
-UAI 2024  
-PRICAI 2024  
-PRICAI 2023
 
 **Reviewer for Journals: 期刊审稿人**  
 IEEE Transactions on Neural Networks and Learning Systems  
@@ -40,7 +36,10 @@ Mathematics
 Applied Sciences  
 Entropy  
 Sensors  
+Symmetry  
 Scientific Programming  
+智能系统学报  
+计算机工程与科学  
 
 **Editorial Board Member for Journals: 期刊编委**  
 《智能系统学报》青年编委

@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>2025</h2>
+<h2>2026</h2>
 
 **[A General Dual-view Framework for Instance Weighted Naive Bayes](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008428)**  
 Authors: **Huan Zhang**, Kexin Meng, Pei Lv, Shuo He, Mingliang Xu*   
-Publication: Pattern Recognition, 2025, Accepted. (SCI, 中科院1区, CCF-B, IF=7.6)
+Publication: Pattern Recognition, Vol 171A, March 2026, 112181. (SCI, 中科院1区, CCF-B, IF=7.6)
+
+<h2>2025</h2>
 
 **[Instance Correlation Graph-based Naive Bayes](https://openreview.net/forum?id=hwTKGdM4TK)**  
 Authors: Chengyuan Li, Liangxiao Jiang*, Wenjun Zhang, Liangjun Yu, **Huan Zhang**   
@@ -17,7 +19,7 @@ Publication: The 42nd International Conference on Machine Learning (ICML 2025), 
 
 **[KA2Net: Kolmogorov-Arnold Attention Network for PCB Tiny Defect Detection](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12)**  
 Authors: Qi Wang, Zhihong Xie, Yongping Zeng, **Huan Zhang***   
-Publication: The 21st International Conference on Intelligent Computing (ICIC 2025), Accepted. (CCF-C)
+Publication: The 21st International Conference on Intelligent Computing (ICIC 2025), LNCS 15849, pp. 135–146. (CCF-C)
 
 **[EMAWNB: Enhanced multi-view attribute weighted naive Bayes](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_6)**  
 Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***   

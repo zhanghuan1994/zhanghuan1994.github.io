@@ -15,7 +15,10 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
-✌️2025.7- Our paper ''A General Dual-view Framework for Instance Weighted Naive Bayes'' is accepted in Pattern Recognition (CCF-B，IF:7.6)! This is the first work of my master student Kexin Meng enrolled in 2024. Thanks for her hard work, congratulations!  
+✌️2025.07- It is my great honor to join the Granular Computing and Knowledge Discovery Committee of Chinese Association for Artificial Intelligence as the committee member! I will try my best to serve the committee in the future!   
+**很荣幸加入中国人工智能学会粒计算与知识发现专委会担任委员，未来我将尽全力为专委会做好服务工作！**
+
+✌️2025.07- Our paper ''A General Dual-view Framework for Instance Weighted Naive Bayes'' is accepted in Pattern Recognition (CCF-B，IF:7.6)! This is the first work of my master student Kexin Meng enrolled in 2024. Thanks for her hard work, congratulations!  
 **我们的工作“A General Dual-view Framework for Instance Weighted Naive Bayes” 被录取到了 Pattern Recognition (CCF-B, IF:7.6)！这是我的学生24级硕士孟可心的第一个工作。感谢她的辛苦付出，祝贺！**
 
 ✌️2025.07- My application about 2025 China Postdoctoral Science Foundation has been approved, congratulations!  
@@ -28,7 +31,7 @@ News 最新动态
 **我们的工作“EMAWNB: Enhanced multi-view attribute weighted naive Bayes” 被录取到了亚太地区知识发现与数据挖掘会议 PAKDD 2025！第一作者是我指导的三年级本科生，从入门数据挖掘方向到论文发表仅用了半年时间，祝贺！悉尼见！**
 
 ✌️2024.12- Our paper ''Dual-View Learning from Crowds'' is accepted in ACM Transactions on Knowledge Discovery from Data (CCF-B)! This is my first work in crowdsourcing learning. Thanks for the contributions and efforts of all the co-authors!  
-**我们的工作“Dual-View Learning from Crowds” 被录取到了 ACM TKDD (CCF-B)！这是我在众包学习方向的第一个工作，感谢所有合作者的贡献和付出！**
+**我们的工作“Dual-View Learning from Crowds” 被录用到了 ACM TKDD (CCF-B)！这是我在众包学习方向的第一个工作，感谢所有合作者的贡献和付出！**
 
 ✌️2024.08- My application about 2024 Youth Fund of the National Natural Science Foundation of China has been approved, congratulations!  
 **我申报的2024年国家自然科学基金青年基金顺利获得资助，恭喜！**

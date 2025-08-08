@@ -45,6 +45,9 @@ Scientific Programming
 《智能系统学报》青年编委
 
 **Member: 组织成员**  
+中国人工智能学会粒计算与知识发现专委会委员  
+中国人工智能学会因果与不确定性人工智能专委会委员  
+中国人工智能学会机器学习专委会通讯委员  
 CCF Member  
 CAAI Member  
 CIE Member

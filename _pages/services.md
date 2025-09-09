@@ -19,6 +19,7 @@ CCML 2025
 IEEE Transactions on Neural Networks and Learning Systems  
 IEEE Transactions on Cybernetics  
 ACM Transactions on Knowledge Discovery from Data  
+Information Fusion  
 Pattern Recognition  
 Neural Networks  
 Information Sciences  

@@ -26,7 +26,7 @@ Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***
 Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), pp. 66–78. (CCF-C)
 
 **[Adaptive Non-Disjoint Discretization for Tree Augmented Naive Bayes]()**  
-Authors: Han Liu, Yafei Zhang, Jingjing Xu, **Huan Zhang***   
+Authors: Han Liu, Yafei Zhang, Jingjing Xu, Pei Lv, **Huan Zhang***   
 Publication: The 21st International Conference on Advanced Data Mining and Applications (ADMA2025), Accepted. (CCF-C)
 
 **[KA2Net: Kolmogorov-Arnold Attention Network for PCB Tiny Defect Detection](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12)**  

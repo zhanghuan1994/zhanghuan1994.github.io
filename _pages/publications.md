@@ -25,7 +25,7 @@ Publication: The 42nd International Conference on Machine Learning (ICML 2025), 
 Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***   
 Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), pp. 66–78. (CCF-C)
 
-**[Adaptive Non-Disjoint Discretization for Tree Augmented Naive Bayes](https://adma2025.github.io/accepted_papers.html)**  
+**[Adaptive Non-Disjoint Discretization for Tree Augmented Naive Bayes](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_3)**  
 Authors: Han Liu, Yafei Zhang, Jingjing Xu, Pei Lv, **Huan Zhang***   
 Publication: The 21st International Conference on Advanced Data Mining and Applications (ADMA2025), Accepted. (CCF-C)
 

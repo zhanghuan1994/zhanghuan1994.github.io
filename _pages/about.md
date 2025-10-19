@@ -34,7 +34,7 @@ News 最新动态
 **我们的工作“Dual-View Learning from Crowds” 被录用到了 ACM TKDD (CCF-B)！这是我在众包学习方向的第一个工作，感谢所有合作者的贡献和付出！**
 
 ✌️2024.10- Thanks to all, it is my great honor to be awarded 2024 ACM China Council Rising Star (Zhengzhou Chapter)! Congratulations!  
-**谢谢大家！我很荣幸获得2024年ACM新星奖（郑州分会）奖！恭喜！**
+**谢谢大家！我很荣幸获得2024年ACM新星奖（郑州分会）！恭喜！**
 
 ✌️2024.08- My application about 2024 Youth Fund of the National Natural Science Foundation of China has been approved, congratulations!  
 **我申报的2024年国家自然科学基金青年基金顺利获得资助，恭喜！**

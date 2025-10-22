@@ -42,6 +42,7 @@ Sensors
 Symmetry  
 Scientific Programming  
 智能系统学报  
+计算机工程  
 计算机工程与科学  
 
 **Editorial Board Member for Journals: 期刊编委**  

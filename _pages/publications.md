@@ -27,7 +27,7 @@ Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mi
 
 **[Adaptive Non-Disjoint Discretization for Tree Augmented Naive Bayes](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_3)**  
 Authors: Han Liu, Yafei Zhang, Jingjing Xu, Pei Lv, **Huan Zhang***   
-Publication: The 21st International Conference on Advanced Data Mining and Applications (ADMA2025), Accepted. (CCF-C)
+Publication: The 21st International Conference on Advanced Data Mining and Applications (ADMA2025), LNCS 16200, pp. 33–48. (CCF-C)
 
 **[KA2Net: Kolmogorov-Arnold Attention Network for PCB Tiny Defect Detection](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12)**  
 Authors: Qi Wang, Zhihong Xie, Yongping Zeng, **Huan Zhang***   

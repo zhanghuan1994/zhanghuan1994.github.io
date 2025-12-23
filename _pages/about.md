@@ -16,7 +16,7 @@ News 最新动态
 ======
 
 ✌️2025.11- Congratulations to six of my post-graduate students for their second and third prize in "HUAWEl Cup" The 22nd China Post-Graduate Mathematical Contest in Modeling!   
-**祝贺我的六位研究生孟可心、谢志宏、孙嘉译、张桠菲、许晶晶、曾永平获得“华为杯”第二十二届中国研究生数学建模竞赛国家级二等奖1项，三等奖1项！**
+**祝贺我的六位硕士生孟可心、谢志宏、孙嘉译、张桠菲、许晶晶、曾永平获得“华为杯”第二十二届中国研究生数学建模竞赛国家级二等奖1项，三等奖1项！**
 
 ✌️2025.09- It is my great honor to be the senior member of CCF! I will try my best to serve the committee in the future!   
 **很荣幸当选CCF高级会员，未来将尽力为学会贡献更多力量！**

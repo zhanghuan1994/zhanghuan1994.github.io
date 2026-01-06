@@ -4,11 +4,8 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
-National Natural Science Foundation of China, 2026.1-2029.12, Ongoing, Participating  
-国家自然科学基金面上项目，2026.1-2029.12，在研，参与
-
-The China Postdoctoral Science Foundation, 2025.7-2026.12, Ongoing, Manager  
-中国博士后科学基金第77批面上资助，2025.7-2026.12，在研，主持
+The China Postdoctoral Science Foundation, 2025.7-2027.6, Ongoing, Manager  
+中国博士后科学基金第77批面上资助，2025.7-2027.6，在研，主持
 
 Joint Open Fund of the Research Platforms of School of Computer Science, China University of Geosciences, Wuhan, 2025.1-2026.12, Ongoing, Manager  
 中国地质大学（武汉）计算机学院科研平台联合开放基金，2025.1-2026.12，在研，主持
@@ -27,6 +24,9 @@ The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosc
 
 China University of Geosciences (Wuhan) Laboratory Open Fund Project, 2018.12-2019.12, Completed, Manager  
 中国地质大学（武汉）教学实验室开放基金项目，2018.12-2019.12，已结题，主持
+
+National Natural Science Foundation of China, 2026.1-2029.12, Ongoing, Participating  
+国家自然科学基金面上项目，2026.1-2029.12，在研，参与
 
 National Natural Science Foundation of China, 2023.1-2026.12, Ongoing, Participating  
 国家自然科学基金面上项目，2023.1-2026.12，在研，参与

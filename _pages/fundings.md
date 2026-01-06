@@ -4,6 +4,9 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
+National Natural Science Foundation of China, 2026.1-2029.12, Ongoing, Participating  
+国家自然科学基金面上项目，2026.1-2029.12，在研，参与
+
 The China Postdoctoral Science Foundation, 2025.7-2026.12, Ongoing, Manager  
 中国博士后科学基金第77批面上资助，2025.7-2026.12，在研，主持
 

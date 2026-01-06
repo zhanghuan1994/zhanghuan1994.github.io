@@ -17,8 +17,8 @@ ICIC 2025
 ICAI 2025  
 CCML 2025  
 
-**Workshop Chair for Conferences: 会议分论坛主席**
-IEEE DLCV 2026 
+**Workshop Chair for Conferences: 会议分论坛主席**  
+[IEEE DLCV 2026](https://www.icdlcv.org/workshops-2/) 
 
 **Reviewer for Journals: 期刊审稿人**  
 IEEE Transactions on Neural Networks and Learning Systems  

@@ -5,8 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-2024.10: 2024年ACM China Council Rising Star Award (Zhengzhou Chapter)    
-2024.10: 2024年ACM China新星奖（郑州分会）
+2025.06: Outstanding Instructor of the 16th Blue Bridge Cup National Software and Information Technology Professional Talent Competition   
+2025.06: 第十六届蓝桥杯全国软件与信息技术专业人才大赛优秀指导老师
+
+2024.10: ACM China Council Rising Star Award (Zhengzhou Chapter)    
+2024.10: ACM China新星奖（郑州分会）
 
 2023.06: The Outstanding Ph.D. Graduations of China University of Geosciences (Wuhan)    
 2023.06: 中国地质大学（武汉）优秀博士毕业生

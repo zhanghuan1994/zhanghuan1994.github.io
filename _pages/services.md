@@ -7,7 +7,7 @@ author_profile: true
 
 **Program Committee for Conferences: 会议程序委员会委员**  
 AAAI 2024/2025/2026  
-IJCAI 2025  
+IJCAI 2025/2026  
 UAI 2024/2025/2026  
 ECAI 2025  
 PAKDD 2026  

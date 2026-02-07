@@ -7,6 +7,10 @@ author_profile: true
 
 <h2>2026</h2>
 
+**[K-Free Dependence Bayesian Classifiers]()**  
+Authors: Kexin Meng, **Huan Zhang***, Liangxiao Jiang, Pei Lv, Shuo He, Mingliang Xu   
+Publication: IEEE Transactions on Neural Networks and Learning Systems, Vol XX, 2026, Accepted. (SCI, 中科院1区, CCF-B, IF=8.9)
+
 **[A General Dual-view Framework for Instance Weighted Naive Bayes](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008428)**  
 Authors: **Huan Zhang**, Kexin Meng, Pei Lv, Shuo He, Mingliang Xu*   
 Publication: Pattern Recognition, Vol 171A, March 2026, 112181. (SCI, 中科院1区, CCF-B, IF=7.6)

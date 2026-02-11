@@ -21,6 +21,7 @@ CCML 2025
 [IEEE DLCV 2026](https://www.icdlcv.org/workshops-2/) 
 
 **Reviewer for Journals: 期刊审稿人**  
+IEEE Transactions on Knowledge and Data Engineering  
 IEEE Transactions on Neural Networks and Learning Systems  
 IEEE Transactions on Cybernetics  
 ACM Transactions on Knowledge Discovery from Data  

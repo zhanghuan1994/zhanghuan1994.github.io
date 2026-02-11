@@ -37,6 +37,7 @@ Artificial Intelligence Review
 Neurocomputing  
 International Journal of Machine Learning and Cybernetics  
 Neural Computing and Applications  
+Applied Soft Computing  
 Intelligent Systems with Applications  
 Journal of Circuits, Systems, and Computers  
 International Journal of Image and Data Fusion  

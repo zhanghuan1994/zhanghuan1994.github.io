@@ -19,7 +19,7 @@ CCML 2025
 
 **Workshop Chair for Conferences: 会议分论坛主席**  
 IEEE DLCV 2026: [Workshop 11. Bayesian Learning: Theories, Models and Applications](https://www.icdlcv.org/workshops-2/) [征稿链接](https://mp.weixin.qq.com/s/xciH28mxIYJUBsiNMVyDqA?scene=1)  
-FAIML 2026: [Special Session Ⅸ: Multi-Granularity Cognitive Machine Learning: Theories, Methods and Applications](https://www.faiml.org/session.html) [征稿链接](https://mp.weixin.qq.com/s/zYO3t9CfRBwUieuoYWeY0Q)
+FAIML 2026: [Special Session Ⅸ. Multi-Granularity Cognitive Machine Learning: Theories, Methods and Applications](https://www.faiml.org/session.html) [征稿链接](https://mp.weixin.qq.com/s/zYO3t9CfRBwUieuoYWeY0Q)
 
 **Reviewer for Journals: 期刊审稿人**  
 IEEE Transactions on Knowledge and Data Engineering  

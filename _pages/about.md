@@ -15,6 +15,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
+✌️2026.03- My application about 2026 Henan Province Outstanding Youth Science Fund Program (Type B) has been approved! Thanks to all my friends!  
+**我申报的2026年河南省自然科学基金青年科学基金（B类）项目顺利获得资助，谢谢大家！**
+
 ✌️2026.02- Our paper ''K-Free Dependence Bayesian Classifiers'' is accepted in IEEE Transactions on Neural Networks and Learning Systems (CCF-B，IF:8.9)! Congratulations to my master student Kexin Meng!  
 **我们的工作“K-Free Dependence Bayesian Classifiers” 被IEEE Transactions on Neural Networks and Learning Systems (CCF-B，IF:8.9)顺利录用！祝贺可心！**
 

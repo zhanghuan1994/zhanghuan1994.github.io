@@ -23,11 +23,11 @@ Publication: ACM Transactions on Knowledge Discovery from Data, Vol 19, April 20
 
 **[Instance Correlation Graph-based Naive Bayes](https://openreview.net/forum?id=hwTKGdM4TK)**  
 Authors: Chengyuan Li, Liangxiao Jiang*, Wenjun Zhang, Liangjun Yu, **Huan Zhang**   
-Publication: The 42nd International Conference on Machine Learning (ICML 2025), Accepted. (CCF-A)
+Publication: The 42nd International Conference on Machine Learning (ICML 2025), PMLR 267: 35021-35033. (CCF-A)
 
 **[EMAWNB: Enhanced multi-view attribute weighted naive Bayes](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_6)**  
 Authors: Guanzhi Liu, Kexin Meng, Pei Lv, **Huan Zhang***   
-Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), pp. 66–78. (CCF-C)
+Publication: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), LNCS 15872, pp. 66–78. (CCF-C)
 
 **[Adaptive Non-Disjoint Discretization for Tree Augmented Naive Bayes](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_3)**  
 Authors: Han Liu, Yafei Zhang, Jingjing Xu, Pei Lv, **Huan Zhang***   

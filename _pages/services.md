@@ -35,6 +35,7 @@ Engineering Applications of Artificial Intelligence
 Artificial Intelligence Review  
 Neurocomputing  
 International Journal of Machine Learning and Cybernetics  
+Image and Vision Computing  
 Neural Computing and Applications  
 Applied Soft Computing  
 Intelligent Systems with Applications  
@@ -45,6 +46,7 @@ Entropy
 智能系统学报  
 计算机工程  
 计算机工程与科学  
+软件导刊  
 
 **Program Committee for Conferences: 会议程序委员会委员**  
 AAAI 2024/2025/2026  
@@ -58,3 +60,4 @@ ICANN 2026
 ICIC 2025/2026  
 ICAI 2025  
 CCML 2025  
+CGCKD 2026

@@ -15,9 +15,9 @@ Publication: IEEE Transactions on Neural Networks and Learning Systems, https://
 Authors: **Huan Zhang**, Kexin Meng, Pei Lv, Shuo He, Mingliang Xu*   
 Publication: Pattern Recognition, Vol 171A, March 2026, 112181. (中科院1区Top, CCF-B, IF=7.6)
 
-**[Frequency-based Lazy Naive Bayes](https://authors.elsevier.com/sd/article/S1568-4946(26)00697-6)**  
+**[Frequency-based Lazy Naive Bayes](https://authors.elsevier.com/a/1m%7ENw5aecT0%7EV0)**  
 Authors: Baozheng Wang, **Huan Zhang***, Kexin Meng, Yafei Zhang   
-Publication: Applies Soft Computing, Vol XX, XX 2026, 115249. (中科院2区Top, IF=6.6)
+Publication: Applies Soft Computing, Vol 198, July 2026, 115249. (中科院2区Top, IF=6.6)
 
 **[Exploiting global and local item transition patterns for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0169023X26000534?dgcid=coauthor)**  
 Authors: Bin Wu, Yihao Tian, Xinxin Wu, **Huan Zhang**, Mingliang Xu*   

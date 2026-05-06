@@ -21,6 +21,7 @@ FAIML 2026: [Special Session Ⅸ. Multi-Granularity Cognitive Machine Learning: 
 
 **Reviewer for Journals: 期刊审稿人**  
 IEEE Transactions on Knowledge and Data Engineering  
+IEEE Transactions on Image Processing  
 IEEE Transactions on Neural Networks and Learning Systems  
 IEEE Transactions on Cybernetics  
 ACM Transactions on Knowledge Discovery from Data  

@@ -6,6 +6,7 @@ author_profile: true
 ---
 **Editorial Board Member for Journals: 期刊（青年）编委**  
 《智能系统学报》青年编委  
+《大数据》青年编委  
 《杭州电子科技大学学报》青年编委  
 《西北大学学报》青年编委
 
@@ -52,6 +53,7 @@ Entropy
 
 **Program Committee for Conferences: 会议程序委员会委员**  
 AAAI 2024/2025/2026  
+NeurIPS 2026  
 IJCAI 2025/2026  
 UAI 2024/2025/2026  
 ECAI 2025  

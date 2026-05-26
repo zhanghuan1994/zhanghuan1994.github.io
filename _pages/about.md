@@ -15,6 +15,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
+✌️2026.05- It is my great honor to be awarded ''The Outstanding Contribution Award for Young Editorial Board Members'' of the CAAI Transactions on Intelligent Systems! I will continue to serve as a member of the third Youth Editorial Board. I will strive to make greater contributions to the journal!  
+**很荣幸获得《智能系统学报》“青年编委突出贡献奖”，并继续担任第三届青年编委会委员，努力为期刊做出更多贡献！**
+
 ✌️2026.03- My application about 2026 Henan Province Outstanding Youth Science Fund Program has been approved! Thanks to all my friends!  
 **我申报的2026年河南省自然科学基金青年B类（原河南省优青）项目顺利获得资助，谢谢大家！**
 

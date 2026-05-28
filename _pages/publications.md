@@ -19,6 +19,10 @@ Publication: Pattern Recognition, Vol 171A, March 2026, 112181. (中科院1区To
 Authors: Baozheng Wang, **Huan Zhang***, Kexin Meng, Yafei Zhang   
 Publication: Applies Soft Computing, Vol 198, July 2026, 115249. (中科院2区Top, IF=6.6)
 
+**[A Warping Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification](https://ecmlpkdd.org/2026/)**  
+Authors: Jingjing Xu, **Huan Zhang***   
+Publication: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), LNCS XX, pp. XX–XX. (CCF-B)
+
 **[Exploiting global and local item transition patterns for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0169023X26000534?dgcid=coauthor)**  
 Authors: Bin Wu, Yihao Tian, Xinxin Wu, **Huan Zhang**, Mingliang Xu*   
 Publication: Data & Knowledge Engineering, Vol 164, July 2026, 102606. (CCF-B)

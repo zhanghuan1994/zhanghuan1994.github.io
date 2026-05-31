@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 **Editorial Board Member for Journals: 期刊（青年）编委**  
-《智能系统学报》青年编委  
+《智能系统学报》青年编委（第二届、第三届）  
 《大数据》青年编委  
 《杭州电子科技大学学报》青年编委  
 《西北大学学报》青年编委

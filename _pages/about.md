@@ -15,6 +15,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 News 最新动态
 ======
 
+✌️2026.05- Our paper ''A Warping Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification'' is accepted in ECML-PKDD 2026 (CCF-B)! This is our first work in time series classification. Congratulations to my master student Jingjing Xu!  
+**我们的工作“A Warping Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification” 被ECML-PKDD 2026 (CCF-B)顺利录用！这是我们在时间序列分类方向的第一个工作，祝贺晶晶！**
+
 ✌️2026.05- It is my great honor to be awarded ''The Outstanding Contribution Award for Young Editorial Board Members'' of the CAAI Transactions on Intelligent Systems! I will continue to serve as a member of the third Youth Editorial Board. I will strive to make greater contributions to the journal!  
 **很荣幸获得《智能系统学报》“青年编委突出贡献奖”，并继续担任第三届青年编委会委员，努力为期刊做出更多贡献！**
 

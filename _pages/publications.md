@@ -17,7 +17,7 @@ Publication: Pattern Recognition, Vol 171A, March 2026, 112181. (中科院1区To
 
 **[Frequency-based Lazy Naive Bayes](https://authors.elsevier.com/a/1m%7ENw5aecT0%7EV0)**  
 Authors: Baozheng Wang, **Huan Zhang***, Kexin Meng, Yafei Zhang   
-Publication: Applies Soft Computing, Vol 198, July 2026, 115249. (中科院2区Top, IF=6.6)
+Publication: Applied Soft Computing, Vol 198, July 2026, 115249. (中科院2区Top, IF=6.6)
 
 **[A Warping Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification](https://ecmlpkdd.org/2026/)**  
 Authors: Jingjing Xu, **Huan Zhang***   

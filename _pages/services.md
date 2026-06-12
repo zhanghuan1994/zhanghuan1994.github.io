@@ -41,12 +41,15 @@ Neurocomputing
 International Journal of Machine Learning and Cybernetics  
 Image and Vision Computing  
 Neural Computing and Applications  
+The Journal of Supercomputing  
 Applied Soft Computing  
 Intelligent Systems with Applications  
 Journal of Circuits, Systems, and Computers  
+SoftwareX  
 International Journal of Image and Data Fusion  
 Mathematics  
 Entropy  
+计算机学报  
 智能系统学报  
 计算机工程  
 计算机工程与科学  
@@ -58,6 +61,7 @@ AAAI 2024/2025/2026
 IJCAI 2025/2026  
 UAI 2024/2025/2026  
 ICDM 2026  
+ECML-PKDD 2026  
 ECAI 2025  
 PAKDD 2026  
 PRICAI 2023/2024/2025/2026  

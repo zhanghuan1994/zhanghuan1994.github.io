@@ -15,7 +15,7 @@ Publication: IEEE Transactions on Neural Networks and Learning Systems, https://
 Authors: **Huan Zhang**, Kexin Meng, Pei Lv, Shuo He, Mingliang Xu*   
 Publication: Pattern Recognition, Vol 171A, March 2026, 112181. (中科院1区Top, CCF-B, IF=7.6)
 
-**[Frequency-based Lazy Naive Bayes](https://authors.elsevier.com/a/1m%7ENw5aecT0%7EV0)**  
+**[Frequency-based Lazy Naive Bayes](https://www.sciencedirect.com/science/article/pii/S1568494626006976)**  
 Authors: Baozheng Wang, **Huan Zhang***, Kexin Meng, Yafei Zhang   
 Publication: Applied Soft Computing, Vol 198, July 2026, 115249. (中科院2区Top, IF=6.6)
 

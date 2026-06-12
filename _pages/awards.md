@@ -8,6 +8,9 @@ author_profile: true
 2026.05: The Outstanding Contribution Award for Young Editorial Board Members of the CAAI Transactions on Intelligent Systems   
 2026.05: 《智能系统学报》“青年编委突出贡献奖”
 
+2026.04: Outstanding Instructor of the 17th Blue Bridge Cup National Software and Information Technology Professional Talent Competition   
+2026.04: 第十七届蓝桥杯全国软件与信息技术专业人才大赛优秀指导老师
+
 2025.06: Outstanding Instructor of the 16th Blue Bridge Cup National Software and Information Technology Professional Talent Competition   
 2025.06: 第十六届蓝桥杯全国软件与信息技术专业人才大赛优秀指导老师
 

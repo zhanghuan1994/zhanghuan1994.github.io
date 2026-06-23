@@ -57,7 +57,7 @@ Entropy
 
 **Program Committee for Conferences: 会议程序委员会委员**  
 NeurIPS 2026  
-AAAI 2024/2025/2026  
+AAAI 2024/2025/2026/2027  
 IJCAI 2025/2026  
 UAI 2024/2025/2026  
 ICDM 2026  
@@ -70,4 +70,5 @@ ICANN 2026
 ICIC 2025/2026  
 ICAI 2025  
 CCML 2025  
-CGCKD 2026
+CGCKD 2026  
+WAIC Academic 2026  

@@ -16,7 +16,7 @@ FAIML 2026: [Special Session Ⅸ. Multi-Granularity Cognitive Machine Learning: 
 CVGAI 2026: [Technical Program Committees](https://www.cvgai.org/committee)  
 
 **Guest Editor: 客座编辑**  
-Electronics: [Intelligent Pattern Recognition Based on Multimodal Large Models]([https://www.mdpi.com/journal/electronics/special_issues/EZ4JEH2G29]  
+Electronics: [Intelligent Pattern Recognition Based on Multimodal Large Models][征稿链接](https://www.mdpi.com/journal/electronics/special_issues/EZ4JEH2G29)  
 
 **Member: 组织成员**  
 中国人工智能学会粒计算与知识发现专委会委员  

@@ -10,21 +10,21 @@ author_profile: true
 孙嘉译，2025级  
 李咏琪，2025级  
 丁志鹏，2025级  
-孟可心，2024级([PR×1](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008428), [TNNLS×1](https://ieeexplore.ieee.org/document/11409471))  
+孟可心，2024级([TNNLS×1](https://ieeexplore.ieee.org/document/11409471),[PR×1](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008428))  
 曾永平，2024级  
 张桠菲，2024级  
 谢志宏，2024级  
 许晶晶，2024级(ECML-PKDD 2026, [2026年欧洲机器学习与数据库知识发现原理与实践会议奖学金](https://ecmlpkdd.org/2026/scholarship-recipients/))  
 
 本科生  
-刘涵，2022级(ADMA 2025，蓝桥杯省级一等奖)  
-王琦，2022级(ICIC 2025)   
-王保征，2022级(ASOC×1，蓝桥杯国家三等奖)  
-刘观志，2022级(PAKDD 2025)   
+刘涵，2022级([ADMA 2025](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_3)，蓝桥杯省级一等奖)  
+王琦，2022级([ICIC 2025](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12))   
+王保征，2022级([ASOC×1](https://www.sciencedirect.com/science/article/pii/S1568494626006976)，蓝桥杯国家三等奖)  
+刘观志，2022级([PAKDD 2025](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_6))   
 吴雨琪，2022级(蓝桥杯国家三等奖)   
 范铭哲，2022级   
 仵文宇，2022级   
-吴思瑶，2023级(UAI 2026 [Oral=2.2%], 2026年国际不确定性人工智能会议奖学金，2026年河南省大学生创新创业训练计划项目负责人)   
+吴思瑶，2023级([UAI 2026](https://proceedings.mlr.press/v337/wu26b.html) [Oral=2.2%], 2026年国际不确定性人工智能会议奖学金，2026年河南省大学生创新创业训练计划项目负责人)   
 郭嘉璇，2023级(2025年河南省大学生创新创业训练计划项目负责人)   
 施臻果，2023级(2026年全国大学生英语竞赛C类三等奖）   
 杜菲，2024级(蓝桥杯省级一等奖)   

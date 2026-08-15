@@ -10,7 +10,7 @@ author_profile: true
 孙嘉译，2025级  
 李咏琪，2025级  
 丁志鹏，2025级  
-孟可心，2024级(PR×1, TNNLS×1)  
+孟可心，2024级([PR×1](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008428), [TNNLS×1](https://ieeexplore.ieee.org/document/11409471))  
 曾永平，2024级  
 张桠菲，2024级  
 谢志宏，2024级  

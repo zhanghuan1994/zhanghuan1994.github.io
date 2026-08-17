@@ -25,7 +25,8 @@ Publication: European Conference on Machine Learning and Principles and Practice
 
 **[Learning Representations from Perturbation: A Novel Matrix-View Weighting Framework for Naive Bayes](https://proceedings.mlr.press/v337/wu26b.html)**  
 Authors: Siyao Wu, **Huan Zhang***, Kexin Meng, Zhipeng Ding, Pei Lv   
-Publication: The 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026), PMLR 337:7416-7432. (CAAI-A, Oral=2.2%)
+Publication: The 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026), PMLR 337:7416-7432. (CAAI-A)
+**Oral presentation (acceptance rate 24/1087 = 2.2%)**
 
 **[Exploiting global and local item transition patterns for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0169023X26000534?dgcid=coauthor)**  
 Authors: Bin Wu, Yihao Tian, Xinxin Wu, **Huan Zhang**, Mingliang Xu*   

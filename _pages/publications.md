@@ -28,6 +28,14 @@ Authors: Siyao Wu, **Huan Zhang***, Kexin Meng, Zhipeng Ding, Pei Lv
 Publication: The 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026), PMLR 337:7416-7432. (CAAI-A)
 **Oral presentation (acceptance rate 24/1087 = 2.2%)**
 
+**[Local Density-Refined Granular Ball-Based Label Augmentation for Crowdsourcing](https://icdm2026.neu.edu.cn/)**  
+Authors: Yongqi Li, **Huan Zhang***, Yongping Zeng, Chang Liu, Pei Lv, Mingliang Xu   
+Publication: The IEEE International Conference on Data Mining (ICDM), pp. XX–XX. (CCF-B)
+
+**[Enriched Dual-View Learning from Crowds](https://icdm2026.neu.edu.cn/)**  
+Authors: Zhenguo Shi, **Huan Zhang***   
+Publication: The IEEE International Conference on Data Mining (ICDM), pp. XX–XX. (CCF-B)
+
 **[Exploiting global and local item transition patterns for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0169023X26000534?dgcid=coauthor)**  
 Authors: Bin Wu, Yihao Tian, Xinxin Wu, **Huan Zhang**, Mingliang Xu*   
 Publication: Data & Knowledge Engineering, Vol 164, July 2026, 102606. (CCF-B)

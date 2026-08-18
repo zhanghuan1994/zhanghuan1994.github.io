@@ -14,7 +14,7 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 
 News 最新动态
 ======
-✌️2026.08- Our latest two works about crowdsourcing entitle ''Local Density-Refined Granular Ball-Based Label Augmentation for Crowdsourcing'' and ''Enriched Dual-View Learning from Crowds'' are both accepted in ICDM 2026 (CCF-B), one of the three top conference in data mining! The first author is the first-year master student and third-year undergraduate student I mentored, respectively. Congratulations to Yongqi and Zhenguo! See you in Shenyang!  
+✌️2026.08- Our two latest works about crowdsourcing entitle ''Local Density-Refined Granular Ball-Based Label Augmentation for Crowdsourcing'' and ''Enriched Dual-View Learning from Crowds'' are both accepted in ICDM 2026 (CCF-B), one of the three top conference in data mining! The first author is the first-year master student and third-year undergraduate student I mentored, respectively. Congratulations to Yongqi and Zhenguo! See you in Shenyang!  
 **我们在众包方向的两个最新工作“Local Density-Refined Granular Ball-Based Label Augmentation for Crowdsourcing”和“Enriched Dual-View Learning from Crowds” 双双被数据挖掘三大顶会之一ICDM 2026 (CCF-B)录用！论文的第一作者分别是我指导的研一和大三本科生，祝贺咏琪、臻果！沈阳见！**
 
 ✌️2026.06- Our paper ''Learning Representations from Perturbation: A Novel Matrix-View Weighting Framework for Naive Bayes'' is accepted as oral paper in UAI 2026 (CAAI-A)! The proportion is only 2.2%! The first author is a third-year undergraduate student I mentored. Congratulations to Siyao!  

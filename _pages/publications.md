@@ -21,7 +21,7 @@ Publication: Applied Soft Computing, Vol 198, July 2026, 115249. (中科院2区T
 
 **[A Warping Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification](https://ecmlpkdd.org/2026/)**  
 Authors: Jingjing Xu, **Huan Zhang***   
-Publication: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), LNCS XX, pp. XX–XX. (CCF-B)
+Publication: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), LNCS 16947, pp. 217–234. (CCF-B)
 
 **[Learning Representations from Perturbation: A Novel Matrix-View Weighting Framework for Naive Bayes](https://proceedings.mlr.press/v337/wu26b.html)**  
 Authors: Siyao Wu, **Huan Zhang***, Kexin Meng, Zhipeng Ding, Pei Lv   

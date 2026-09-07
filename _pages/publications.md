@@ -19,7 +19,7 @@ Publication: Pattern Recognition, Vol 171A, March 2026, 112181. (中科院1区To
 Authors: Baozheng Wang, **Huan Zhang***, Kexin Meng, Yafei Zhang   
 Publication: Applied Soft Computing, Vol 198, July 2026, 115249. (中科院2区Top, IF=6.6)
 
-**[A Warping Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification](https://ecmlpkdd.org/2026/)**  
+**[A Warping Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-032-37676-3_13)**  
 Authors: Jingjing Xu, **Huan Zhang***   
 Publication: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), LNCS 16947, pp. 217–234. (CCF-B)
 

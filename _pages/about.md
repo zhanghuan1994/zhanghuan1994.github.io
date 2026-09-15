@@ -14,6 +14,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 
 News 最新动态
 ======
+✌️2026.09- Congratulations to my students Kexin Meng, Jingjing Xu, and Siyao Wu, who have respectively received the National Scholarship for Master's Degree Students, the ECML-PKDD 2026 Student Scholarship, and the UAI 2026 Student Scholarship! Hard work always pays off. Keep it up!  
+**祝贺我的学生孟可心、许晶晶、吴思瑶，分别获得硕士研究生国家奖学金，ECML-PKDD 2026和UAI 2026大会学生奖学金！付出必有收获，继续加油！**
+
 ✌️2026.08- Two of our latest works about crowdsourcing entitled ''Local Density-Refined Granular Ball-Based Label Augmentation for Crowdsourcing'' and ''Enriched Dual-View Learning from Crowds'' are accepted in ICDM 2026 (CCF-B), one of the top three conferences in data mining! The first author is the first-year master student and third-year undergraduate student I mentored, respectively. Congratulations to Yongqi and Zhenguo! See you in Shenyang!  
 **我们在众包方向的两个最新工作“Local Density-Refined Granular Ball-Based Label Augmentation for Crowdsourcing”和“Enriched Dual-View Learning from Crowds” 双双被数据挖掘三大顶会之一ICDM 2026 (CCF-B)录用！论文的第一作者分别是我指导的研一和大三本科生，祝贺咏琪、臻果！沈阳见！**
 

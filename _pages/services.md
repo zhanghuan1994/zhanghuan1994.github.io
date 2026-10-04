@@ -8,7 +8,8 @@ author_profile: true
 《智能系统学报》青年编委（第二届、第三届）  
 《大数据》青年编委  
 《杭州电子科技大学学报》青年编委  
-《西北大学学报》青年编委
+《西北大学学报》青年编委  
+《南京理工大学学报》青年编委
 
 **Workshop Chair for Conferences: 会议分论坛主席**  
 IEEE DLCV 2026: [Workshop 11. Bayesian Learning: Theories, Models and Applications](https://www.icdlcv.org/workshops-2/) [征稿链接](https://mp.weixin.qq.com/s/xciH28mxIYJUBsiNMVyDqA?scene=1)  
@@ -59,6 +60,7 @@ Entropy
 软件导刊  
 
 **Program Committee for Conferences: 会议程序委员会委员**  
+ICLR 2027  
 NeurIPS 2026  
 AAAI 2024/2025/2026/2027  
 IJCAI 2025/2026  

@@ -57,6 +57,7 @@ Entropy
 智能系统学报  
 计算机工程  
 计算机工程与科学  
+大数据  
 软件导刊  
 
 **Program Committee for Conferences: 会议程序委员会委员**  

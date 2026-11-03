@@ -18,7 +18,7 @@ author_profile: true
 
 本科生  
 刘涵，2022级([ADMA 2025](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_3)，蓝桥杯省级一等奖，推免北京航空航天大学)  
-王琦，2022级([ICIC 2025](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12)，2026年校级优秀本科毕业论文，推免北京航空航天大学)   
+王琦，2022级([ICIC 2025](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12)，[2026年校级优秀本科毕业论文](https://www5.zzu.edu.cn/jwc/info/1125/5434.htm)，推免北京航空航天大学)   
 王保征，2022级([ASOC×1](https://www.sciencedirect.com/science/article/pii/S1568494626006976)，蓝桥杯国家三等奖，推免西北工业大学)  
 刘观志，2022级([PAKDD 2025](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_6)，推免中国科学院大学)   
 吴雨琪，2022级(蓝桥杯国家三等奖，推免武汉理工大学)   

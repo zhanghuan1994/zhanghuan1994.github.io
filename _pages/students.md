@@ -14,19 +14,19 @@ author_profile: true
 曾永平，2024级  
 张桠菲，2024级  
 谢志宏，2024级  
-许晶晶，2024级(ECML-PKDD 2026, [2026年欧洲机器学习与数据库知识发现原理与实践会议奖学金](https://ecmlpkdd.org/2026/scholarship-recipients/))  
+许晶晶，2024级([ECML-PKDD 2026](https://link.springer.com/chapter/10.1007/978-3-032-37676-3_13), [2026年欧洲机器学习与数据库知识发现原理与实践会议奖学金](https://ecmlpkdd.org/2026/scholarship-recipients/))  
 
 本科生  
-刘涵，2022级([ADMA 2025](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_3)，蓝桥杯省级一等奖)  
-王琦，2022级([ICIC 2025](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12))   
-王保征，2022级([ASOC×1](https://www.sciencedirect.com/science/article/pii/S1568494626006976)，蓝桥杯国家三等奖)  
-刘观志，2022级([PAKDD 2025](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_6))   
-吴雨琪，2022级(蓝桥杯国家三等奖)   
+刘涵，2022级([ADMA 2025](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_3)，蓝桥杯省级一等奖，推免北京航空航天大学)  
+王琦，2022级([ICIC 2025](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_12)，2026年校级优秀本科毕业论文，推免北京航空航天大学)   
+王保征，2022级([ASOC×1](https://www.sciencedirect.com/science/article/pii/S1568494626006976)，蓝桥杯国家三等奖，推免西北工业大学)  
+刘观志，2022级([PAKDD 2025](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_6)，推免中国科学院大学)   
+吴雨琪，2022级(蓝桥杯国家三等奖，推免武汉理工大学)   
 范铭哲，2022级   
 仵文宇，2022级   
-吴思瑶，2023级([UAI 2026](https://proceedings.mlr.press/v337/wu26b.html) [**Oral presentation (acceptance rate 24/1087 = 2.2%)**], 2026年国际不确定性人工智能会议奖学金，2026年河南省大学生创新创业训练计划项目负责人)   
-郭嘉璇，2023级(ADMA 2026, 2025年河南省大学生创新创业训练计划项目负责人)   
-施臻果，2023级(ICDM 2026, 2026年全国大学生英语竞赛C类三等奖）   
+吴思瑶，2023级([UAI 2026](https://proceedings.mlr.press/v337/wu26b.html) [**Oral presentation (acceptance rate 24/1087 = 2.2%)**], 2026年国际不确定性人工智能会议奖学金，2026年河南省大学生创新创业训练计划项目负责人，推免南京大学)   
+郭嘉璇，2023级(ADMA 2026, 2025年河南省大学生创新创业训练计划项目负责人，推免合肥工业大学)   
+施臻果，2023级(ICDM 2026, 2026年全国大学生英语竞赛C类三等奖，推免浙江大学）   
 杜菲，2024级(蓝桥杯省级一等奖)   
 余晋夕，2024级(蓝桥杯省级一等奖)   
 赵耀辉，2025级   

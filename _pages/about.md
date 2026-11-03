@@ -14,6 +14,9 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow i
 
 News 最新动态
 ======
+✌️2026.11- Congratulations to Qi Wang, the undergraduate student I supervised, whose work "Research on Lightweight Detection of Dim and Small Targets in UAV Imagery Based on Deep Learning" was selected as a 2026 university-level outstanding undergraduate thesis!  
+**祝贺我指导的本科生王琦的工作“基于深度学习的无人机弱小目标轻量化检测方法研究”获得2026年校级优秀本科毕业论文！**
+
 ✌️2026.09- Congratulations to my students Kexin Meng, Jingjing Xu, and Siyao Wu, who have respectively received the National Scholarship for Master's Degree Students, the ECML-PKDD 2026 Student Scholarship, and the UAI 2026 Student Scholarship! Hard work always pays off. Keep it up!  
 **祝贺我的学生孟可心、许晶晶、吴思瑶，分别获得硕士研究生国家奖学金，ECML-PKDD 2026和UAI 2026大会学生奖学金！付出必有收获，继续加油！**
 

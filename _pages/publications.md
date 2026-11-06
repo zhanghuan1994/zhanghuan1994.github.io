@@ -36,9 +36,9 @@ Publication: The IEEE International Conference on Data Mining (ICDM), pp. XX–X
 Authors: Zhenguo Shi, **Huan Zhang***   
 Publication: The IEEE International Conference on Data Mining (ICDM), pp. XX–XX. (CCF-B)
 
-**[BucketLoss: A Novel Sample Reweighting Loss Function for PCB Surface Defect Classification](https://adma2026.github.io/)**  
+**[BucketLoss: A Novel Sample Reweighting Loss Function for PCB Surface Defect Classification](https://link.springer.com/chapter/10.1007/978-981-92-7735-3_11)**  
 Authors: Jiaxuan Guo, Yafei Zhang, **Huan Zhang***   
-Publication: The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026), LNCS XX, pp. XX–XX.
+Publication: The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026), LNAI 17287, pp. 141–156.
 
 **[Exploiting global and local item transition patterns for sequential recommendation](https://www.sciencedirect.com/science/article/pii/S0169023X26000534?dgcid=coauthor)**  
 Authors: Bin Wu, Yihao Tian, Xinxin Wu, **Huan Zhang**, Mingliang Xu*   

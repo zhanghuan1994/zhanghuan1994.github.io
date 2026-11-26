@@ -121,3 +121,15 @@ Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (中科
 **[Gain ratio weighted inverted specific-class distance measure for nominal attributes](https://link.springer.com/article/10.1007%2Fs13042-020-01112-8)**  
 Authors: Fang Gong, Liangxiao Jiang*, **Huan Zhang**, Dianhong Wang, Xingfeng Guo  
 Publication: International Journal of Machine Learning and Cybernetics, Vol 11, March 2020, Pages 2237–2246.
+
+<h2>发明专利</h2>
+
+张瑶、蒋良孝*、**张欢**等，一种基于实例重分配的众包标记集成方法，专利号：ZL202210419838.9，授权公告日：2025-5-16
+
+蒋良孝*、张文钧、**张欢**、李超群，一种基于随机森林的伯努利朴素贝叶斯文本分类方法，专利号：ZL202010125450.9，授权公告日：2023-4-7
+
+<h2>软件著作</h2>
+
+奚悦、**张欢**、邢家乐、夏桐，电路板缺陷数据标注系统V1.0，登记号：2026SR1189236
+
+邢家乐、**张欢**、奚悦、王琦，电路板微小缺陷检测系统V1.0，登记号：2026SR0719144
